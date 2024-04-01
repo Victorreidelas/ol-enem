@@ -1,5 +1,5 @@
 body {
-   background-color: #C9AFA5; color: #c9afa5;
+   background-color: #C9AFA5; 
 
 }
 
@@ -106,10 +106,8 @@ body {
 }
 
 .t5 {
-
+    color: aliceblue;
     font-size: 30px;
-
-
     margin-left: 30%;
     margin-right: 30%;
 }
@@ -119,8 +117,8 @@ body {
 }
 
 .roda {
-    background-color: #636161;
-    color: #c25c5c;
+    background-color: #C9AFA5 ;
+    color: aliceblue;
     text-align: center;
     padding: 10px 0;
     position: fixed;
@@ -132,4 +130,8 @@ body {
 .b {
     flex: 1;
     padding: 20px;
+}
+
+.c{
+    color: #000000;
 }
