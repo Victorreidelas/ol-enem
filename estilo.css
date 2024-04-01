@@ -1,9 +1,6 @@
 body {
-    background-image: url("/imagem/fundo.jpg");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    background-attachment: fixed;
+   background-color: #C9AFA5; color: #c9afa5;
+
 }
 
 .logo {
@@ -13,20 +10,20 @@ body {
 }
 
 .ola {
-    color: #17c1f5;
+    color: #B15330;;
     text-align: center;
     font-size: 90px;
 }
 
 .enem {
-    color: #00fbff;
+    color: #B15330;
     text-align: center;
     font-size: 50px;
 
 }
 
 .note {
-    color: #00fbff;
+    color: #B15330;
     text-align: center;
     font-size: 50px;
 }
@@ -38,7 +35,7 @@ body {
 }
 
 .oque {
-    color: #89e8f5;
+    color: #25535B;
     text-align: center;
     font-size: 50px;
 
@@ -83,13 +80,13 @@ body {
 .left1 {
     float: left;
     font-size: 50px;
-    color: #89e8f5;
+    color: #25535B;
 }
 
 .right1 {
     float: right;
     font-size: 50px;
-    color: #89e8f5;
+    color: #062D3E;
 }
 
 
