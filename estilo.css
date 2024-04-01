@@ -62,6 +62,7 @@ body {
 }
 
 .left {
+    color: aliceblue;
     float: left;
     font-size: 30px;
     display: inline-block;
@@ -70,6 +71,7 @@ body {
 }
 
 .right {
+    color: aliceblue;
     float: right;
     font-size: 30px;
     display: inline-block;
